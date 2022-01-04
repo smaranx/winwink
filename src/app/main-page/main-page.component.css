@@ -1,0 +1,275 @@
+body{
+    overflow-x: hidden;
+}
+.mainCover
+{
+    height: 60rem;
+    width: 100%;
+    overflow-x: hidden;
+
+
+}
+.mainpage-wink
+ {
+    position:absolute;
+    text-align: center;    
+    margin-top: 10%;
+ }
+ .mainpage-icon
+ {
+    background-color: #FFFFFF00;
+    border-style: solid;
+    border-width: 1px 1px 1px 1px;
+    border-color: #FFFFFF;
+    font-size: 1.4rem;
+    padding-left: 1.3%;
+    padding-right: 1.3%;
+    padding-top: 1%;
+    padding-bottom: 1%;
+
+    margin-left: 1%;
+    border-radius: 10%;
+    color: #FFFFFF;
+ }
+ .mainpage-button:hover{
+  background-color: #00D0FF ;
+  color: #FFFFFF;
+  border-color: #FFFFFF;
+ }
+ .tab {
+    position: absolute;
+    margin-top: 43%;
+    margin-left: 29%;
+}
+ .mainpage-button
+ {
+    position: absolute;
+    font-family: "Poppins", Sans-serif;
+    font-size: 1.5em;
+    font-weight: 600;
+    margin-left: 40%;
+    fill: #FFFFFF;
+    color: #FFFFFF;
+    margin-top: 30%;
+    padding-left: 2.5%;
+    padding-right: 2.5%;
+    padding-top: 1.3%;
+    padding-bottom: 1.3%;
+    background-color: #1B91EF00;
+    border-style: solid;
+    border-radius: 0px 0px 0px 0px;
+    /* margin-left: 28%; */
+
+ }
+ h3{
+    color: #FFFFFF;
+    font-family: "Poppins", Sans-serif;
+    font-size: 300%;
+    font-weight: 700;
+    text-align: center;
+    line-height: 1;
+    margin-top: 25%;
+    letter-spacing: -0.02em;
+ }
+ h2{
+    text-align: center;
+    margin-left: 1.2%;
+    color: #FD57A5;
+    font-family: "Poppins", Sans-serif;
+    font-size: 2.2em;
+    margin-top: 38%;
+    font-weight: 700;
+ }
+.mainpage-heading
+{
+    position: absolute;
+    
+
+}
+ /* You can add global styles to this file, and also import other style files */
+.counter-button
+{
+  text-align: center;
+  font-family: "Poppins", Sans-serif;
+  font-size: 3em;
+  font-weight: 600;
+  fill: #FFFFFF;
+  color: #FFFFFF;
+  padding-left: 1.3%;
+  padding-right: 1.3%;
+  
+  background-color: #1B91EF00;
+  border-style: solid;
+  border: white;
+  border:2px solid #d4d4d4;
+  border-radius: 0px 0px 0px 0px;
+}
+.counter-button__text
+{
+  text-align: center;
+  font-family: "Poppins", Sans-serif;
+  font-size: 2em;
+  font-weight: 600;
+  fill: #FFFFFF;
+  color: #FFFFFF;
+  padding-left: 1.3%;
+  padding-right: 1.3%;
+  padding-top: 0.5%;
+  background-color: #1B91EF00;
+  border-style: solid;
+  border: white;
+  border:2px solid #d4d4d4;
+  border-radius: 0px 0px 0px 0px;
+}
+.button-style
+{
+  background-color: #1B91EF00;
+  color: #FFFFFF;
+  border: none;
+}
+
+@media only screen   
+and (min-device-width : 360px)   
+and (max-device-width : 640px)
+{
+   
+    .counter-button
+  {
+    text-align: center;
+    font-family: "Poppins", Sans-serif;
+    font-weight: 200;
+    fill: #FFFFFF;
+    color: #FFFFFF;
+    padding-left: 1.3%;
+    padding-right: 1.3%;
+    padding-top: 0.7%;
+    font-size: 83%;
+    padding-bottom: 0.5%;
+    background-color: #1B91EF00;
+    border-style: solid;
+    border: white;
+    border:2px solid #d4d4d4;
+    border-radius: 0px 0px 0px 0px;
+  }
+  .counter-button__text
+  {
+    text-align: center;
+    font-family: "Poppins", Sans-serif;
+    font-weight: 200;
+    font-size: 1rem;
+    fill: #FFFFFF;
+    color: #FFFFFF;
+    padding-left: 1.3%;
+    padding-right: 1.3%;
+    padding-top: 0.7%;
+    padding-bottom: 0.5%;
+    background-color: #1B91EF00;
+    border-style: solid;
+    border: white;
+    border:2px solid #d4d4d4;
+    border-radius: 0px 0px 0px 0px;
+  }
+.mainCover{
+    height: 46rem;
+    width: auto;
+}
+h3{
+    color: #FFFFFF;
+    font-family: "Poppins", Sans-serif;
+    font-size: 150%;
+    font-weight: 700;
+    text-align: center;
+    line-height: 1;
+    margin-top: 100%;
+
+}
+h2{
+    text-align: center;
+    margin-left: 1.2%;
+
+    font-size: 1.2em;
+    margin-top: 145%;
+    font-weight: 700;
+}
+.tab {
+    position: absolute;
+    margin-top: 150%;
+    margin-left: 28%;
+}
+img {
+    vertical-align: middle;
+    border-style: none;
+    width: 33%;
+}
+.mainpage-wink {
+    position: absolute;
+    text-align: center;
+    margin-top: 51%;
+}
+.mainpage-button{
+    position: absolute;
+    font-family: "Poppins", Sans-serif;
+    font-size: 1em;
+    font-weight: 400;
+    margin-left: 24%;
+    fill: #FFFFFF;
+    color: #FFFFFF;
+    margin-top: 115%;
+    padding-left: 2%;
+    padding-right: 2%;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    background-color: #1B91EF00;
+    border-style: solid;
+    border-radius: 0px 0px 0px 0px;
+}
+
+
+}
+
+@media only screen   
+and (min-width: 1030px)   
+and (max-width: 1440px)  
+{
+    h3{
+        margin-top: 29%;
+        padding: 1.5rem;
+    }
+    h2{
+        margin-top: 46.5%;
+        margin-left: 3%;
+        padding: 1.5rem;
+    }  
+    .mainpage-button{
+        margin-left: 39.5%;
+        margin-top: 38%;
+    }
+    .tab
+    {
+        margin-top: 54%;
+        margin-left: 30%;
+    }
+}
+
+@media only screen   
+and (min-device-width : 768px)   
+and (max-device-width : 1024px)  
+{
+    h3{
+        margin-top: 40%;
+        padding: 1.5rem;
+    }
+    h2{
+        margin-top: 63.5%;
+        padding: 1.5rem;
+    }  
+    .mainpage-button{
+
+        margin-left: 34.5%;
+        margin-top: 55%;
+    }
+    .tab
+    {
+        margin-top: 70%;
+    }
+}
